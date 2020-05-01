@@ -83,8 +83,9 @@ button{
 
 .completed{
     text-decoration: line-through;
-    
 }
+
+
 
 .trash-btn, .change-task{
     width: 50px;
