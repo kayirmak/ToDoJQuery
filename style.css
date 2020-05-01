@@ -44,6 +44,10 @@ button{
     cursor: pointer;
 }
 
+p{
+    margin: 0;
+}
+
 .wrapper{
     width: 88%;
     margin: auto;
